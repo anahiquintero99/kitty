@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: pink;
+  font-size: 50px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-kitty {
+  width: 500px;
+}
